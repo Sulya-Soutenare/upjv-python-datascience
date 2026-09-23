@@ -1,7 +1,7 @@
 # Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Sulya Soutenare
+**Formation :** L3 Économie-Gestion Managment diagnotic des entreprises
 **Année :** 2026-2027
 
 ## Description
